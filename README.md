@@ -1,7 +1,13 @@
 # StreamClean
 
+![AI-Assisted](https://img.shields.io/badge/Built%20with-AI%20Assistance-06b6d4?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)
+![Platform: Windows 10/11](https://img.shields.io/badge/Platform-Windows%2010%2F11-3b82f6?style=flat-square)
+
 > **Windows 10/11 için oyuncu ve yayıncı odaklı, %100 açık kaynaklı, güvenli ve ultra hızlı disk/cache temizleyici.**  
 > **100% open-source, safe, ultra-fast disk & cache cleaner for gamers and streamers on Windows 10/11.**
+
+*Bu proje yapay zekâ (AI) desteğiyle geliştirilmiştir. / Built with AI assistance.*
 
 Built with **Rust + Tauri v2 + React + TypeScript + Tailwind CSS**.
 
